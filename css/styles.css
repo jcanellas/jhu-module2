@@ -23,6 +23,7 @@ p {
 div {
   background-color: gray;
   border: 1px solid black;
+  margin:10px;
 }
 section{
   clear: right;
@@ -87,7 +88,7 @@ div#container {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 30%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -131,10 +132,10 @@ div#container {
     width: 25%;
   }
   .col-md-4 {
-    width: 33.33%;
+    width: 30%;
   }
   .col-md-5 {
-    width: 41.66%;
+    width: 44.7%;
   }
   .col-md-6 {
     width: 50%;
@@ -174,7 +175,7 @@ div#container {
     width: 25%;
   }
   .col-sm-4 {
-    width: 33.33%;
+    width: 30%;
   }
   .col-sm-5 {
     width: 41.66%;
@@ -198,6 +199,6 @@ div#container {
     width: 91.66%;
   }
   .col-sm-12 {
-    width: 100%;
+    width: 94.6%;
   }
 }
